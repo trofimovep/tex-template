@@ -1,0 +1,115 @@
+\documentclass[notheorems,16pt,utf8,fullscreen=true,bookmarks=false]{beamer}
+\usepackage{../Styles/Personal_data}
+
+\usepackage[english,russian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{pscyr}
+\usefonttheme[onlymath]{serif}
+\usepackage{amsfonts,amsmath}
+\usepackage{cite,enumerate,float,indentfirst}
+
+\usepackage{xcolor}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{ragged2e}
+\usepackage{pgfpages}
+
+\usepackage{multirow} %объединение строк в таблицах
+\usepackage{tabularx}
+
+\parskip=0.25cm
+\pgfpagesuselayout{resize to}[a4paper,border shrink=5mm,landscape]
+\definecolor{chromeyellow}{rgb}{1.0, 0.65, 0.0}
+
+\captionsetup{labelsep=period}
+\justifying
+\renewcommand{\raggedright}{\leftskip=0pt \rightskip=0pt plus 0cm}
+\setbeamersize{text margin left=0cm, text margin right=0cm}
+\setbeamertemplate{navigation symbols}{}
+\setbeamercolor{alert}{bg=chromeyellow}
+
+
+\graphicspath{{../Images/}}   
+
+\usetheme[]{Boadilla}
+
+\setbeamertemplate{blocks}[rounded][shadow=false]
+\addtobeamertemplate{block begin}{\pgfsetfillopacity{0.8}}{\pgfsetfillopacity{1}}
+\setbeamercolor{structure}{fg=black}
+\setbeamercolor{frametitle}{bg=chromeyellow!50!white}
+\setbeamertemplate{enumerate items}[circle]
+\setbeamertemplate{itemize items}[circle]
+
+\setbeamerfont{frametitle}{size=\large\bf}
+
+\beamertemplatenavigationsymbolsempty
+
+\setbeamercolor{footline}{fg=gray}
+\addtocounter{framenumber}{-1}
+\setbeamertemplate{headline}{}
+\setbeamertemplate{footline}{
+  	\leavevmode%
+  	\hbox{%
+  		\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{}%
+    		\small \student
+  		\end{beamercolorbox}%
+  		\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{}% 
+  		\end{beamercolorbox}%
+  		\begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{}%
+			\small Слайд \insertframenumber{} \hspace{1cm} 
+  		\end{beamercolorbox}}%
+  	\vskip0pt%
+	}
+\newtheorem{theorem}{Теорема}
+
+\begin{document}
+{
+\setbeamertemplate{footline}{} 
+\begin{frame}
+% Логотип университета и название 
+		\begin{minipage}[h]{0.1\linewidth}
+			\begin{center}
+				\includegraphics[scale=0.15]{lstu_logo.jpg}		
+			\end{center} 
+		\end{minipage}
+		\hfill
+		\begin{minipage}[h]{0.8\linewidth}
+			\begin{center}
+				 {\LARGE\scshape\bf Липецкий государственный технический университет}
+			\end{center}
+		\end{minipage}
+			
+		\begin{center}
+			\large\textbf{\studentIm} \\ 
+			\vspace{1cm}
+			\thema \\
+			\vspace{1cm}
+			\normalsize Направление \major \\
+		\end{center}
+		\vspace{0.5cm}
+		\begin{minipage}[h]{0.54\linewidth}
+			\begin{center}
+				Научный руководитель \\
+				\ad 
+			\end{center} 
+		\end{minipage}
+		\hfill
+		\begin{minipage}[h]{0.4\linewidth}
+		\begin{center}
+			\small \adviser
+		\end{center}
+		\end{minipage}
+\end{frame}
+}
+\normalsize
+\include{slides}
+
+\setbeamertemplate{headline}{}
+\begin{frame}
+	\begin{center}
+		\LARGE Спасибо за внимание!
+	\end{center}
+\end{frame}
+
+\end{document} 

@@ -1,0 +1,526 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{anyt/global}
+    \entry{BasuMetagraphs}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3abc66d78877155b095f04dbf357d879}{%
+           family={Basu},
+           family_i={B\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3abc66d78877155b095f04dbf357d879}
+      \strng{fullhash}{3abc66d78877155b095f04dbf357d879}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{172}
+      \field{title}{Metagraphs and Their Applications / A. Basu, R. Blanning}
+      \field{year}{2007}
+    \endentry
+    \entry{Bretto}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fb413c27194f4adebab0c26d22758291}{%
+           family={Bretto},
+           family_i={B\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fb413c27194f4adebab0c26d22758291}
+      \strng{fullhash}{fb413c27194f4adebab0c26d22758291}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{134}
+      \field{title}{Hypergraph Theory. An Introduction}
+      \field{year}{2013}
+    \endentry
+    \entry{chinaPostman}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=43ff470bde4089247d0882b3aa978261}{%
+           family={Drexl},
+           family_i={D\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{43ff470bde4089247d0882b3aa978261}
+      \strng{fullhash}{43ff470bde4089247d0882b3aa978261}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Journal of the Operational Research Society}
+      \field{title}{On the generalized directed rural postman problem / M. Drexl}
+      \field{year}{2014}
+      \field{pages}{1143\bibrangedash 1154}
+      \range{pages}{12}
+    \endentry
+    \entry{Gallo}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9f2926caece3c51c79b9b8959e058c4b}{%
+           family={Gallo},
+           family_i={G\bibinitperiod},
+           given={G.},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{9f2926caece3c51c79b9b8959e058c4b}
+      \strng{fullhash}{9f2926caece3c51c79b9b8959e058c4b}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discrete Applied Mathematics}
+      \field{title}{Directed Hypergraphs and Applications / G. Gallo}
+      \field{year}{1993}
+      \field{number}{42}
+      \range{number}{1}
+      \field{pages}{177\bibrangedash 201}
+      \range{pages}{25}
+    \endentry
+    \entry{JoslynN17}{article}{}
+      \name{author}{1}{}{%
+        {{hash=36bd17dc5648b9fe41fbf42926c5efdd}{%
+           family={Joslyn},
+           family_i={J\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{36bd17dc5648b9fe41fbf42926c5efdd}
+      \strng{fullhash}{36bd17dc5648b9fe41fbf42926c5efdd}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Ubergraphs: {A} Definition of a Recursive Hypergraph Structure / C. Joslyn, K. Nowak}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1704.05547
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1704.05547
+      \endverb
+    \endentry
+    \entry{metroParis}{article}{}
+      \name{author}{1}{}{%
+        {{hash=127872ef6ea14da70df1085b0f05c16b}{%
+           family={Sikora},
+           family_i={S\bibinitperiod},
+           given={Florian},
+           given_i={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{127872ef6ea14da70df1085b0f05c16b}
+      \strng{fullhash}{127872ef6ea14da70df1085b0f05c16b}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{The shortest way to visit all metro lines in Paris}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1709.05948
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1709.05948
+      \endverb
+    \endentry
+    \entry{Voloshin}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c887d866aa5a914c6b6df752da4ce88e}{%
+           family={Voloshin},
+           family_i={V\bibinitperiod},
+           given={V.},
+           given_i={V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {NY}%
+      }
+      \list{publisher}{1}{%
+        {Nova Science Publishers Inc}%
+      }
+      \strng{namehash}{c887d866aa5a914c6b6df752da4ce88e}
+      \strng{fullhash}{c887d866aa5a914c6b6df752da4ce88e}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{287}
+      \field{title}{Introduction to Graph and Hypergraph Theory / V. Voloshin}
+      \field{year}{2009}
+    \endentry
+    \entry{BluminOgrHyperUBS}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=52de77bc60aa3b73cced0fbcc75101f3}{%
+           family={Блюмин},
+           family_i={Б\bibinitperiod},
+           given={С.\bibnamedelimi Л.},
+           given_i={С\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {ИПУ РАН}%
+      }
+      \strng{namehash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \strng{fullhash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \field{sortinit}{Б}
+      \field{sortinithash}{161dbde41bd990699d9b7ff419202d50}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Управление большими системами. Специальный выпуск 30.1 <<Сетевые модели в управлении>>}
+      \field{title}{Оргиперграфы: матричные представления}
+      \field{year}{2010}
+      \field{pages}{52\bibrangedash 39}
+      \range{pages}{-12}
+    \endentry
+    \entry{BluminIterGG}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=52de77bc60aa3b73cced0fbcc75101f3}{%
+           family={Блюмин},
+           family_i={Б\bibinitperiod},
+           given={С.\bibnamedelimi Л.},
+           given_i={С\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {ИПУ РАН}%
+      }
+      \strng{namehash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \strng{fullhash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \field{sortinit}{Б}
+      \field{sortinithash}{161dbde41bd990699d9b7ff419202d50}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Труды конференции <<Теория активных систем>>}
+      \field{title}{Итергиперграфы: расширенный класс графовых моделей больших систем}
+      \field{year}{2011}
+      \field{pages}{11\bibrangedash 15}
+      \range{pages}{5}
+    \endentry
+    \entry{BluminVLGTUOOG}{article}{}
+      \name{author}{1}{}{%
+        {{hash=52de77bc60aa3b73cced0fbcc75101f3}{%
+           family={Блюмин},
+           family_i={Б\bibinitperiod},
+           given={С.\bibnamedelimi Л.},
+           given_i={С\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \strng{fullhash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \field{sortinit}{Б}
+      \field{sortinithash}{161dbde41bd990699d9b7ff419202d50}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Вестник ЛГТУ}
+      \field{title}{Оргипергиперграфы: матрицы инцидентности и лапласианы}
+      \field{year}{2013}
+      \field{number}{1 (21)}
+      \range{number}{-1}
+      \field{pages}{15\bibrangedash 27}
+      \range{pages}{13}
+    \endentry
+    \entry{BluminPrinkovTend}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=52de77bc60aa3b73cced0fbcc75101f3}{%
+           family={Блюмин},
+           family_i={Б\bibinitperiod},
+           given={С.\bibnamedelimi Л.},
+           given_i={С\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {Курск}%
+      }
+      \list{publisher}{1}{%
+        {ЗАО <<Университетская книга>>}%
+      }
+      \strng{namehash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \strng{fullhash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \field{sortinit}{Б}
+      \field{sortinithash}{161dbde41bd990699d9b7ff419202d50}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Проблемы фундаментальной и прикладной информатики в управлении, автоматизации и мехатронике}
+      \field{title}{Графоструктурные тенденции развития ИИС: применение гиперграфов, метаграфов, итерграфов и их матричных представлений [Текст] / С.Л. Блюмин, А.С. Приньков}
+      \field{year}{2017}
+      \field{pages}{5\bibrangedash 13}
+      \range{pages}{9}
+    \endentry
+    \entry{BluminTheorCategory}{article}{}
+      \name{author}{1}{}{%
+        {{hash=52de77bc60aa3b73cced0fbcc75101f3}{%
+           family={Блюмин},
+           family_i={Б\bibinitperiod},
+           given={С.\bibnamedelimi Л.},
+           given_i={С\bibinitperiod\bibinitdelim Л\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \strng{fullhash}{52de77bc60aa3b73cced0fbcc75101f3}
+      \field{sortinit}{Б}
+      \field{sortinithash}{161dbde41bd990699d9b7ff419202d50}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Современные тенденции развития науки и технологий}
+      \field{title}{Метаграфы в теории категорий и графоструктурном моделировании}
+      \field{year}{2017}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{16\bibrangedash 18}
+      \range{pages}{3}
+    \endentry
+    \entry{EmelichevGraphs}{book}{}
+      \name{author}{1}{}{%
+        {{hash=64591896abd477fbce601bfe99b655af}{%
+           family={Емеличев},
+           family_i={Е\bibinitperiod},
+           given={В.\bibnamedelimi А.},
+           given_i={В\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Наука}%
+      }
+      \strng{namehash}{64591896abd477fbce601bfe99b655af}
+      \strng{fullhash}{64591896abd477fbce601bfe99b655af}
+      \field{sortinit}{Е}
+      \field{sortinithash}{bcf7bd940a0a313e497147cf5f268489}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{384}
+      \field{title}{Лекции по теории графов / В.А. Емеличев, О.И. Мельников В.И. Сарванов, Р.И. Тышкевич}
+      \field{year}{1990}
+    \endentry
+    \entry{Knyazkov2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=76e0e07a898f0de6fe37728ecb6ab946}{%
+           family={Князьков},
+           family_i={К\bibinitperiod},
+           given={В.\bibnamedelimi С.},
+           given_i={В\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Национальный открытый университет <<Интуит>>}%
+      }
+      \strng{namehash}{76e0e07a898f0de6fe37728ecb6ab946}
+      \strng{fullhash}{76e0e07a898f0de6fe37728ecb6ab946}
+      \field{sortinit}{К}
+      \field{sortinithash}{0541c48a08593cee2bd9009f505f4070}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{76}
+      \field{title}{Введение в теорию графов [Электронный ресурс] : учеб. пособие / В.С. Князьков, Т.В. Волченская}
+      \field{year}{2016}
+    \endentry
+    \entry{Kopilov2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4de73ef37f97294fb18a6635771dd275}{%
+           family={Копылов},
+           family_i={К\bibinitperiod},
+           given={В.\bibnamedelimi И.},
+           given_i={В\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {Спб.}%
+      }
+      \list{publisher}{1}{%
+        {Лань}%
+      }
+      \strng{namehash}{4de73ef37f97294fb18a6635771dd275}
+      \strng{fullhash}{4de73ef37f97294fb18a6635771dd275}
+      \field{sortinit}{К}
+      \field{sortinithash}{0541c48a08593cee2bd9009f505f4070}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{208}
+      \field{title}{Курс дискретной математики: учебное пособие / В.~И.~Копылов}
+      \field{year}{2011}
+    \endentry
+    \entry{McClein}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fc4988487ad8fd9c85e1675db77a4d53}{%
+           family={Маклейн},
+           family_i={М\bibinitperiod},
+           given={С.},
+           given_i={С\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{publisher}{1}{%
+        {ФИЗМАТЛИТ}%
+      }
+      \strng{namehash}{fc4988487ad8fd9c85e1675db77a4d53}
+      \strng{fullhash}{fc4988487ad8fd9c85e1675db77a4d53}
+      \field{sortinit}{М}
+      \field{sortinithash}{2af454f8f30d4c5612d7d621259cc831}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{352}
+      \field{title}{Категории для работающего математика}
+      \field{year}{2004}
+    \endentry
+    \entry{ChernenkiiNI}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=09ed79df78b9b530cb01c76293219c53}{%
+           family={Черненький},
+           family_i={Ч\bibinitperiod},
+           given={В.\bibnamedelimi М.},
+           given_i={В\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {НИЯУ МИФИ}%
+      }
+      \strng{namehash}{09ed79df78b9b530cb01c76293219c53}
+      \strng{fullhash}{09ed79df78b9b530cb01c76293219c53}
+      \field{sortinit}{Ч}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Нейроинформатика-2016. XVIII Всероссийская научно-техническая конференция}
+      \field{title}{Представление сложных сетей на основе метаграфов [Текст] / В.М. Черненький, В.И. Терехов, Ю.Е. Гапанюк}
+      \field{year}{2016}
+      \field{pages}{173\bibrangedash 178}
+      \range{pages}{6}
+    \endentry
+    \entry{ChernenkiiNRP}{article}{}
+      \name{author}{1}{}{%
+        {{hash=09ed79df78b9b530cb01c76293219c53}{%
+           family={Черненький},
+           family_i={Ч\bibinitperiod},
+           given={В.\bibnamedelimi М.},
+           given_i={В\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{09ed79df78b9b530cb01c76293219c53}
+      \strng{fullhash}{09ed79df78b9b530cb01c76293219c53}
+      \field{sortinit}{Ч}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Нейрокомпьютеры: разработка, применение}
+      \field{title}{Структура гибридной интеллектуальной информационной системы на основе метаграфов [Текст] / В.М. Черненький, В.И. Терехов, Ю.Е. Гапанюк}
+      \field{year}{2016}
+      \field{pages}{3\bibrangedash 13}
+      \range{pages}{11}
+    \endentry
+    \entry{ChernenkiiPI}{article}{}
+      \name{author}{1}{}{%
+        {{hash=09ed79df78b9b530cb01c76293219c53}{%
+           family={Черненький},
+           family_i={Ч\bibinitperiod},
+           given={В.\bibnamedelimi М.},
+           given_i={В\bibinitperiod\bibinitdelim М\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \strng{namehash}{09ed79df78b9b530cb01c76293219c53}
+      \strng{fullhash}{09ed79df78b9b530cb01c76293219c53}
+      \field{sortinit}{Ч}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Прикладная информатика}
+      \field{title}{Метаграфовый подход для описания гибридных интеллектуальных информационных систем [Текст] / В.М. Черненький, Ю.Е. Гапанюк, Г.И. Ревунков, В.И. Терехов, Ю.Т. Каганов}
+      \field{year}{2017}
+      \field{number}{3 (69)}
+      \range{number}{-1}
+      \field{pages}{57\bibrangedash 79}
+      \range{pages}{23}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

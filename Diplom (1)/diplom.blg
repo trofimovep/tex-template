@@ -1,0 +1,14 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'diplom.blg'
+[68] biber:287> INFO - === Вс апр 22, 2018, 14:29:26
+[293] Biber.pm:348> INFO - Reading 'diplom.bcf'
+[661] Biber.pm:742> INFO - Found 19 citekeys in bib section 0
+[671] Biber.pm:3151> INFO - Processing section 0
+[721] Biber.pm:3308> INFO - Looking for bibtex format file 'Bibliography/references.bib' for section 0
+[828] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[918] bibtex.pm:974> INFO - Found BibTeX data source 'Bibliography/references.bib'
+[1499] UCollate.pm:65> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1500] UCollate.pm:65> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1500] Biber.pm:3028> INFO - Sorting list 'anyt/global' of type 'entry' with scheme 'anyt' and locale 'ru-RU'
+[1555] bbl.pm:519> INFO - Writing 'diplom.bbl' with encoding 'UTF-8'
+[1639] bbl.pm:615> INFO - Output to diplom.bbl

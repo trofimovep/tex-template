@@ -1,0 +1,5 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'diplom.tex.blg'
+[65] biber:287> INFO - === Вс апр 22, 2018, 12:00:11
+[186] Utils.pm:163> ERROR - Cannot find control file 'diplom.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[187] Biber.pm:113> INFO - ERRORS: 1

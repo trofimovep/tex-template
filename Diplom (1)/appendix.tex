@@ -1,0 +1,59 @@
+%\appendix
+\newpage
+\section*{} \addcontentsline{toc}{section}{Приложения}
+\subsection*{}
+
+\renewcommand{\thefigure}{A.\arabic{figure}}
+\renewcommand{\thetable}{A.\arabic{table}}
+\setcounter{table}{0}
+\setcounter{figure}{0}   
+\begin{center}
+\textbf{Приложение А}
+
+(рекомендуемое)
+
+\end{center}
+
+
+\begin{figure}[htbp]
+	\label{primer_risunka}
+	\begin{center}
+		\includegraphics[scale=0.8]{Images/img1.png}
+	\end{center}
+	\caption{Пример рисунка}
+\end{figure}
+
+\newpage
+\subsection*{}
+
+\renewcommand{\thefigure}{Б.\arabic{figure}}
+\renewcommand{\thetable}{Б.\arabic{table}}
+\setcounter{table}{0}
+\setcounter{figure}{0}
+\begin{center}
+\textbf{Приложение Б}
+
+(рекомендуемое)
+
+\end{center}
+
+\noindent
+\begin{table}[htbp]
+	\caption{Название таблицы}
+	\begin{tabularx}{\textwidth}{|X|X|X|X|X|}
+		\hline 
+		\multirow{2}{*}{Головка} 
+		& \multicolumn{2}{c|}{Графа 1} & \multicolumn{2}{c|}{Графа 2} \\
+		\cline{2-5}
+  		& Подграфа 1 & Подграфа 2 & Подграфа 3 & Подграфа 4 \\ 
+		\hline
+  		&   &   &   &  \\ 
+		\hline
+  		&   &   &   &  \\ 
+		\hline 
+	\end{tabularx}
+\end{table}
+
+
+
+
